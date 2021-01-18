@@ -3,8 +3,11 @@ A simple snake game with loops and nested if else statement.
 
 # How To Run 
 Step1 : Clone this repo in your local desktop.
+<hr>
 Step2 : Open C++ souce file and then compile it.
+<hr>
 Step3 : Open command prompt then run "SnakeGame.exe" file
+<hr>
 Step4 : Hurray..Here we go.
 
 # Things to Keep in mind
